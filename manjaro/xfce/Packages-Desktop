@@ -236,7 +236,6 @@ xorg-mkfontscale
 perl-file-mimeinfo
 xdg-utils
 #xdg-su
->extra timeshift
 >extra kernel-alive
 
 ## Misc
@@ -251,3 +250,13 @@ xiccd # enable color profile settings
 #hsd-git
 #veracrypt
 #cryptoseed
+
+## My Packages
+code
+timeshift
+onlyoffice-desktopeditors
+fish
+
+## My Dev-Pkgs
+rustup
+gcc
