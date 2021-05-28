@@ -91,4 +91,5 @@ vi
 wget
 which
 xfsprogs
-zsh
+fish
+vim
