@@ -90,4 +90,7 @@ wget
 which
 wpa_supplicant
 xfsprogs
-zsh
+
+# my pkgs
+fish
+vim
