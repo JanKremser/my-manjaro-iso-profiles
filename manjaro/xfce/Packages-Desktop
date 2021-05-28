@@ -180,11 +180,11 @@ manjaro-hello
 manjaro-application-utility
 manjaro-settings-manager
 manjaro-settings-manager-notifier
->basic midori
+#>basic midori
 >extra mlocate
 mousepad
 mugshot
->basic parole # media player
+#>basic parole # media player
 >extra pidgin
 powertop
 screenfetch
