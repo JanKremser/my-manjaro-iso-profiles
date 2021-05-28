@@ -217,3 +217,18 @@ manjaro-gnome-tour
 ### GIS
 gnome-initial-setup
 
+## My Packages
+code
+timeshift
+onlyoffice-desktopeditors
+vlc
+gimp
+gimp-help-de
+notepadqq
+firefox
+firefox-i18n-de
+
+## My Dev-Packages
+rustup
+gcc
+cmake
