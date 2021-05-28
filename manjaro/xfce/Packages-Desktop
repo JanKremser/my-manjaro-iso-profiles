@@ -255,8 +255,14 @@ xiccd # enable color profile settings
 code
 timeshift
 onlyoffice-desktopeditors
-fish
+vlc
+gimp
+gimp-help-de
+notepadqq
+firefox
+firefox-i18n-de
 
-## My Dev-Pkgs
+## My Dev-Packages
 rustup
 gcc
+cmake
