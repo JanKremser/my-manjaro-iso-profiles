@@ -89,3 +89,19 @@ gnome-wallpapers
 xcursor-breeze
 
 pamac-gtk
+
+## My Packages
+code
+timeshift
+onlyoffice-desktopeditors
+vlc
+gimp
+gimp-help-de
+notepadqq
+firefox
+firefox-i18n-de
+
+## My Dev-Pkgs
+rustup
+gcc
+cmake
