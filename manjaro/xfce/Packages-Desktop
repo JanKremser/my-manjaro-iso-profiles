@@ -182,7 +182,7 @@ manjaro-settings-manager
 manjaro-settings-manager-notifier
 #>basic midori
 >extra mlocate
-mousepad
+# mousepad
 mugshot
 #>basic parole # media player
 >extra pidgin
@@ -252,17 +252,12 @@ xiccd # enable color profile settings
 #cryptoseed
 
 ## My Packages
+webapp-manager
 code
 timeshift
 onlyoffice-desktopeditors
 vlc
-gimp
-gimp-help-de
 notepadqq
 firefox
 firefox-i18n-de
 
-## My Dev-Packages
-rustup
-gcc
-cmake
